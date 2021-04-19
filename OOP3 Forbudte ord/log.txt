@@ -1,0 +1,6 @@
+Cannot invoke "illegalWords.IllegalWord.getSeverityLevel()" because "illegalWordUsed" is null
+User entered illegal word: BiologiSeverity level: 1
+User entered illegal word: Kemi Severity level: 3
+User entered illegal word: Biologi, Biotech, Kemi Severity level: 3
+User entered illegal word: Biologi, Biotech, Kemi Severity level: 3
+User entered illegal word(s): Biologi, Biotech, Kemi Severity level: 3
